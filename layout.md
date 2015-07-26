@@ -1,5 +1,4 @@
 5.tex
 2.tex
-Block__506481437905415386.html
 div_The_brutal_force_of__.html
 figures/Thailand_earthquake/Thailand_earthquake.png
